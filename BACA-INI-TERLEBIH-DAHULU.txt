@@ -1,0 +1,7 @@
+Project ini merupakan project akhir mata kuliah pemrograman mobile.
+
+1. Import database dengan nama 'db_ngebus',
+   Lokasi file berada di database/sql/db_ngebus.sql
+
+2. Ganti API sesuai dengan IP Address dikomputer masing-masing,
+   Lokasi file berada di model/api.dart.
